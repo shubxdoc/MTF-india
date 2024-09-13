@@ -4,7 +4,7 @@ This is a static website built using Vite, featuring a curated list of laptops w
 
 ## Demo
 
-You can view the live project here: [Link](https://your-github-username.github.io/your-repo-name)
+You can view the live project here: [Link](https://shubxdoc.github.io/MTF-india/)
 
 ## Features
 
