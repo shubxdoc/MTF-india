@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", function () {
 //Fetching Data From json
 async function laptopData() {
   try {
-    const response = await fetch("/data.json")
+    const response = await fetch("./data.json")
     const data = await response.json()
 
     //Recommended
