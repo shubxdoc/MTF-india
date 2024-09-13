@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Arial, Helvetica,
+    sans-serif;
+}
+
+@layer base {
+  html {
+    @apply scroll-p-14;
+  }
+
+  body {
+    @apply font-normal text-gray-400 bg-zinc-900;
+  }
+
+  h1 {
+    @apply text-5xl font-bold text-purple-300;
+  }
+
+  h2 {
+    @apply mt-8 text-3xl font-bold;
+  }
+
+  h3 {
+    @apply my-4 text-xl font-bold;
+  }
+
+  a {
+    @apply hover:text-white hover:no-underline;
+  }
+}
+
+.navLinks.active {
+  @apply font-bold text-white transition duration-200;
+}
