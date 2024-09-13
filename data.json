@@ -1,0 +1,926 @@
+{
+  "gaming": {
+    "recommended": {
+      "quick": [
+        {
+          "name": "Lenovo IdeaPad G3",
+          "price": "₹43,000",
+          "processor": "AMD Ryzen 5 5500H",
+          "graphics": "Integrated Graphics 2050",
+          "battery_health": "67%",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "highlights": "Extreme Budget Only. Prefer Below ₹43,000",
+          "purchase_links": [
+            {
+              "platform": "Mdeal",
+              "url": "https://mdeal.in/c_6rLJT4cYr8n4qHX"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/4c96ZyT"
+            }
+          ],
+          "video_review": "Watch here"
+        },
+        {
+          "name": "Asus TUF F17",
+          "price": "₹51,000",
+          "processor": "Intel Core i7-11400H",
+          "graphics": "NVIDIA GeForce GTX 2050",
+          "battery_health": "126%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Great Display, Huge Laptop",
+          "purchase_links": [
+            {
+              "platform": "Mdeal",
+              "url": "https://clnk.in/u36K"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/3yo7DL6"
+            }
+          ],
+          "video_review": "https://youtu.be/YgMyWpvOeIU"
+        },
+        {
+          "name": "Asus TUF F15",
+          "price": "₹56,000",
+          "processor": "Intel Core i7-11400H",
+          "graphics": "NVIDIA GeForce GTX 3050 (75W)",
+          "battery_health": "63%",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "highlights": "Under Review",
+          "purchase_links": [
+            {
+              "platform": "Mdeal",
+              "url": "https://clnk.in/u36M"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/4dB6fnF"
+            }
+          ],
+          "video_review": "Under Review"
+        },
+        {
+          "name": "Asus TUF A15",
+          "price": "₹60,000",
+          "processor": "AMD Ryzen 7 7435HS",
+          "graphics": "NVIDIA GeForce GTX 2050 (75W)",
+          "battery_health": "63%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Under Review",
+          "purchase_links": [
+            {
+              "platform": "Mdeal",
+              "url": "https://clnk.in/u36N"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/4cCfen9"
+            }
+          ],
+          "video_review": "Watch here"
+        },
+        {
+          "name": "Lenovo IdeaPad G3",
+          "price": "₹62,000",
+          "processor": "AMD Ryzen 7 6800H",
+          "graphics": "NVIDIA GeForce GTX 3050 (85W)",
+          "battery_health": "45%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Near 50k only",
+          "purchase_links": [
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/4dCCT8X"
+            }
+          ],
+          "video_review": "https://www.youtube.com/watch?v=Zaz-gQgIwvA"
+        },
+        {
+          "name": "Lenovo IdeaPad G3",
+          "price": "₹65,000",
+          "processor": "AMD Ryzen 7 7535HS",
+          "graphics": "NVIDIA GeForce GTX 3050 (85W)",
+          "battery_health": "45%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "6GB 3050 with AMD CPU for better battery",
+          "purchase_links": [
+            {
+              "platform": "Mdeal",
+              "url": "https://mdeal.in/c_Q6jRRZWRjg6w51H"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/4dwXI4O"
+            },
+            {
+              "platform": "fkrtt",
+              "url": "https://fkrtt.it/c_RX3CCmtQQLXqQhp"
+            }
+          ],
+          "video_review": "https://youtu.be/0j6ahpcBVvQ"
+        },
+        {
+          "name": "LOQ Gen 9",
+          "price": "₹66,000",
+          "processor": "AMD Ryzen 7 7435HS",
+          "graphics": "NVIDIA GeForce GTX 4050 (105W)",
+          "battery_health": "100%",
+          "ram": "24GB",
+          "storage": "512GB SSD",
+          "highlights": "Terrible battery life",
+          "purchase_links": [
+            {
+              "platform": "Mdeal",
+              "url": "https://mdeal.in/c_72JrWxQFg2a7VW2"
+            },
+            {
+              "platform": "fkrtt",
+              "url": "https://fkrtt.it/c_xL5hA2XRGypLv34"
+            }
+          ],
+          "video_review": "https://www.youtube.com/watch?v=Kfxzb2sQGAI"
+        },
+        {
+          "name": "Asus TUF F17",
+          "price": "₹66,000",
+          "processor": "Intel Core i5-12500H",
+          "graphics": "NVIDIA GeForce GTX 3050 (75W)",
+          "battery_health": "63%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Quick Delivery",
+          "purchase_links": [
+            {
+              "platform": "Asus",
+              "url": "https://www.asus.com/in/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f17-2022/techspec/"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/4dBwqKG"
+            }
+          ],
+          "video_review": "Watch here"
+        },
+        {
+          "name": "LOQ Gen 9",
+          "price": "₹74,000",
+          "processor": "AMD Ryzen 7 7435HS",
+          "graphics": "NVIDIA GeForce GTX 4060 (105W)",
+          "battery_health": "100%",
+          "ram": "24GB",
+          "storage": "512GB SSD",
+          "highlights": "Terrible battery life",
+          "purchase_links": [
+            {
+              "platform": "Mdeal",
+              "url": "https://mdeal.in/c_awC4W8QGZn0KW1Z"
+            },
+            {
+              "platform": "fkrtt",
+              "url": "https://fkrtt.it/c_kwtVQQQGYCP7Gnn"
+            }
+          ],
+          "video_review": "https://youtu.be/7BFi1NsaojA"
+        },
+        {
+          "name": "LOQ Gen 8",
+          "price": "₹75,000",
+          "processor": "AMD Ryzen 7 7840HS",
+          "graphics": "NVIDIA GeForce GTX 3050",
+          "battery_health": "45%",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "highlights": "If you are fine with not color accurate screen",
+          "purchase_links": [
+            {
+              "platform": "Amazon",
+              "url": "https://amzn.to/3z7OZXH"
+            },
+            {
+              "platform": "fkrtt",
+              "url": "https://fkrtt.it/c_LFY5cqnkX3ZXrns"
+            }
+          ],
+          "video_review": "https://www.youtube.com/watch?v=9KcJvNT0KJY"
+        }
+      ],
+      "late_delivery": [
+        {
+          "name": "LOQ Gen 9",
+          "price": "₹72,000",
+          "processor": "AMD Ryzen 7 8645HS",
+          "graphics": "NVIDIA GeForce GTX 3050 (95W)",
+          "battery_health": "100%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Better battery, safer",
+          "purchase_links": [
+            {
+              "platform": "mdeal.in",
+              "url": "https://mdeal.in/c_myaRy4A6qGcKqbZ"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://clnk.in/u2x3"
+            }
+          ],
+          "video_review": "#"
+        },
+        {
+          "name": "LOQ Gen 9",
+          "price": "₹80,000",
+          "processor": "AMD Ryzen 7 8645HS",
+          "graphics": "NVIDIA GeForce GTX 4050 (95W)",
+          "battery_health": "100%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Better battery, safer",
+          "purchase_links": [
+            {
+              "platform": "mdeal.in",
+              "url": "https://mdeal.in/c_myaRy4A6qGcKqbZ"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://clnk.in/u2x3"
+            }
+          ],
+          "video_review": "https://www.youtube.com/watch?v=aALmXiybqbM"
+        },
+        {
+          "name": "LOQ Gen 9",
+          "price": "₹86,000",
+          "processor": "AMD Ryzen 7 8845HS",
+          "graphics": "NVIDIA GeForce GTX 4050 (95W)",
+          "battery_health": "100%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Better battery, safer",
+          "purchase_links": [
+            {
+              "platform": "mdeal.in",
+              "url": "https://mdeal.in/c_myaRy4A6qGcKqbZ"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://clnk.in/u2x3"
+            }
+          ],
+          "video_review": "https://www.youtube.com/watch?v=aALmXiybqbM"
+        },
+        {
+          "name": "LOQ Gen 9",
+          "price": "₹93,000",
+          "processor": "AMD Ryzen 7 8845HS",
+          "graphics": "NVIDIA GeForce GTX 4060 (115W)",
+          "battery_health": "100%",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "highlights": "Better battery, safer",
+          "purchase_links": [
+            {
+              "platform": "mdeal.in",
+              "url": "https://mdeal.in/c_myaRy4A6qGcKqbZ"
+            },
+            {
+              "platform": "Amazon",
+              "url": "https://clnk.in/u2x3"
+            }
+          ],
+          "video_review": "https://www.youtube.com/watch?v=aALmXiybqbM"
+        }
+      ]
+    },
+    "not_recommended": [
+      {
+        "name": "Colorful XS",
+        "price": "₹45,000",
+        "processor": "AMD Ryzen 7 12500H",
+        "graphics": "NVIDIA GeForce GTX 3050",
+        "battery_health": "56%",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "highlights": "Check Colorful laptop playlist before buying",
+        "purchase_links": [
+          {
+            "title": "Colorful Official Site",
+            "link": "https://en.colorful.cn/en/home/product?mid=158&id=2"
+          },
+          {
+            "title": "Link",
+            "link": "https://fkrtt.it/c_Zg6CKK9Yn8kdNzY"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "LOQ Gen 9",
+        "price": "₹51,000",
+        "processor": "AMD Ryzen 3+ 7235HS",
+        "graphics": "NVIDIA GeForce GTX 3050 (95W)",
+        "battery_health": "100%",
+        "ram": "12GB",
+        "storage": "512GB SSD",
+        "highlights": "Terrible battery life",
+        "purchase_links": [
+          {
+            "title": "mdeal.in",
+            "link": "https://mdeal.in/c_x8Patx8VhfhDtLg"
+          },
+          {
+            "title": "Link",
+            "link": "https://fkrtt.it/c_J7Cj9wPpRKM2Wd2"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "https://www.youtube.com/watch?v=Kfxzb2sQGAI"
+        }
+      },
+      {
+        "name": "LOQ Gen 9",
+        "price": "₹54,000",
+        "processor": "AMD Ryzen 3+ 7235HS",
+        "graphics": "NVIDIA GeForce GTX 3050 (95W)",
+        "battery_health": "100%",
+        "ram": "24GB",
+        "storage": "512GB SSD",
+        "highlights": "Terrible battery life",
+        "purchase_links": [
+          {
+            "title": "mdeal.in",
+            "link": "https://mdeal.in/c_TFmvFf7b6k5Y3R2"
+          },
+          {
+            "title": "Link",
+            "link": "https://fkrtt.it/c_Razhg25n8AST2yp"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "https://www.youtube.com/watch?v=Kfxzb2sQGAI"
+        }
+      },
+      {
+        "name": "Asus TUF A15",
+        "price": "₹72,000",
+        "processor": "AMD Ryzen 7 4800H",
+        "graphics": "NVIDIA GeForce GTX 3050",
+        "battery_health": "63%",
+        "ram": "8GB",
+        "storage": "512GB SSD",
+        "highlights": "Too low performance for money",
+        "purchase_links": [
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/4cCfm67"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "Asus TUF A15",
+        "price": "₹143,000",
+        "processor": "AMD Ryzen 9 8945H",
+        "graphics": "NVIDIA GeForce RTX 4070 (100%)",
+        "battery_health": "100%",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "highlights": "Budget Laptop at the cost of premiums",
+        "purchase_links": [
+          {
+            "title": "Link",
+            "link": "https://clnk.in/u36Q"
+          },
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/4dDfZxC"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "HP Victus",
+        "price": "₹65,000",
+        "processor": "AMD Ryzen 7 13420H",
+        "graphics": "NVIDIA GeForce GTX 4050",
+        "battery_health": "45%",
+        "ram": "Not specified",
+        "storage": "Not specified",
+        "highlights": "Only buy if ADP available",
+        "purchase_links": [
+          {
+            "title": "HP Official Site",
+            "link": "https://www.hp.com/in-en/shop/victus-gaming-laptop-15-fa1278tx-9w6u8pa.html?facetref=5c309550bec2aadc#specs"
+          },
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/3WXC3gq"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "LOQ Gen 8",
+        "price": "₹69,000",
+        "processor": "Intel Core i7 12450H",
+        "graphics": "NVIDIA GeForce GTX 4050",
+        "battery_health": "Not specified",
+        "ram": "Not specified",
+        "storage": "Not specified",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/3WwSjDK"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "LOQ Gen 8",
+        "price": "₹75,000",
+        "processor": "Intel Core i7 12450H",
+        "graphics": "NVIDIA GeForce GTX 3050",
+        "battery_health": "Not specified",
+        "ram": "Not specified",
+        "storage": "Not specified",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/3LPqO3r"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      }
+    ],
+    "hold": [
+      {
+        "name": "Colorful XS",
+        "price": "₹45,000",
+        "processor": "AMD Ryzen 7 12500H",
+        "graphics": "NVIDIA GeForce GTX 3050",
+        "battery_health": "56%",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "highlights": "Check Colorful laptop playlist before buying",
+        "purchase_links": [
+          {
+            "title": "Colorful Official Site",
+            "link": "https://en.colorful.cn/en/home/product?mid=158&id=2"
+          },
+          {
+            "title": "Link",
+            "link": "https://fkrtt.it/c_Zg6CKK9Yn8kdNzY"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "LOQ Gen 9",
+        "price": "₹51,000",
+        "processor": "AMD Ryzen 3+ 7235HS",
+        "graphics": "NVIDIA GeForce GTX 3050 (95W)",
+        "battery_health": "100%",
+        "ram": "12GB",
+        "storage": "512GB SSD",
+        "highlights": "Terrible battery life",
+        "purchase_links": [
+          {
+            "title": "mdeal.in",
+            "link": "https://mdeal.in/c_x8Patx8VhfhDtLg"
+          },
+          {
+            "title": "Link",
+            "link": "https://fkrtt.it/c_J7Cj9wPpRKM2Wd2"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "https://www.youtube.com/watch?v=Kfxzb2sQGAI"
+        }
+      },
+      {
+        "name": "LOQ Gen 9",
+        "price": "₹54,000",
+        "processor": "AMD Ryzen 3+ 7235HS",
+        "graphics": "NVIDIA GeForce GTX 3050 (95W)",
+        "battery_health": "100%",
+        "ram": "24GB",
+        "storage": "512GB SSD",
+        "highlights": "Terrible battery life",
+        "purchase_links": [
+          {
+            "title": "mdeal.in",
+            "link": "https://mdeal.in/c_TFmvFf7b6k5Y3R2"
+          },
+          {
+            "title": "Link",
+            "link": "https://fkrtt.it/c_Razhg25n8AST2yp"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "https://www.youtube.com/watch?v=Kfxzb2sQGAI"
+        }
+      },
+      {
+        "name": "Asus TUF A15",
+        "price": "₹72,000",
+        "processor": "AMD Ryzen 7 4800H",
+        "graphics": "NVIDIA GeForce GTX 3050",
+        "battery_health": "63%",
+        "ram": "8GB",
+        "storage": "512GB SSD",
+        "highlights": "Too low performance for money",
+        "purchase_links": [
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/4cCfm67"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "Asus TUF A15",
+        "price": "₹143,000",
+        "processor": "AMD Ryzen 9 8945H",
+        "graphics": "NVIDIA GeForce RTX 4070 (100%)",
+        "battery_health": "100%",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "highlights": "Budget Laptop at the cost of premiums",
+        "purchase_links": [
+          {
+            "title": "Link",
+            "link": "https://clnk.in/u36Q"
+          },
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/4dDfZxC"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "HP Victus",
+        "price": "₹65,000",
+        "processor": "AMD Ryzen 7 13420H",
+        "graphics": "NVIDIA GeForce GTX 4050",
+        "battery_health": "45%",
+        "ram": "Not specified",
+        "storage": "Not specified",
+        "highlights": "Only buy if ADP available",
+        "purchase_links": [
+          {
+            "title": "HP Official Site",
+            "link": "https://www.hp.com/in-en/shop/victus-gaming-laptop-15-fa1278tx-9w6u8pa.html?facetref=5c309550bec2aadc#specs"
+          },
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/3WXC3gq"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "LOQ Gen 8",
+        "price": "₹69,000",
+        "processor": "Intel Core i7 12450H",
+        "graphics": "NVIDIA GeForce GTX 4050",
+        "battery_health": "Not specified",
+        "ram": "Not specified",
+        "storage": "Not specified",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/3WwSjDK"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      },
+      {
+        "name": "LOQ Gen 8",
+        "price": "₹75,000",
+        "processor": "Intel Core i7 12450H",
+        "graphics": "NVIDIA GeForce GTX 3050",
+        "battery_health": "Not specified",
+        "ram": "Not specified",
+        "storage": "Not specified",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "title": "Amazon",
+            "link": "https://amzn.to/3LPqO3r"
+          }
+        ],
+        "video_review": {
+          "title": "Watch here",
+          "link": "#"
+        }
+      }
+    ]
+  },
+  "non_gaming": {
+    "recommended": [
+      {
+        "name": "Lenovo E16",
+        "price": "₹45,000",
+        "processor": "AMD Ryzen 7 7530U",
+        "graphics": "Integrated",
+        "batteryHealth": "47 Wh",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Lenovo",
+            "link": "https://www.lenovo.com/in/en/p/laptops/thinkpad/thinkpade/thinkpad-e16-(16-inch-amd)/len101t0067?Program=9634&pid=486436&acid=ww%3Aaffiliate%3Alx67i4&cid=in%3Aaffiliate%3Afiv7n7"
+          }
+        ],
+        "videoReview": {
+          "link": "https://www.youtube.com/watch?v=LZr5_KmXZxs",
+          "text": "Watch"
+        }
+      },
+      {
+        "name": "Ideapad Slim 5 Gen 9",
+        "price": "₹80,000",
+        "processor": "AMD Ryzen 9 8845HS",
+        "graphics": "Integrated",
+        "batteryHealth": "",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Lenovo",
+            "link": "https://www.lenovo.com/in/en/p/laptops/ideapad/ideapad-s-series/ideapad-slim-5-gen-9-(14-inch-amd)/83dbcto1wwin1?Program=9634&pid=486436&acid=ww%3Aaffiliate%3Alx67i4&cid=in%3Aaffiliate%3Afiv7n7"
+          }
+        ],
+        "videoReview": {
+          "link": "",
+          "text": ""
+        }
+      },
+      {
+        "name": "Lenovo T14 Gen 5",
+        "price": "₹126,000",
+        "processor": "Intel Core i7 8840U",
+        "graphics": "Integrated",
+        "batteryHealth": "53 Wh",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Lenovo",
+            "link": "https://www.lenovo.com/in/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14-gen-5-(14-inch-amd)/len101t0102?Program=9634&pid=486436&acid=ww%3Aaffiliate%3Alx67i4&cid=in%3Aaffiliate%3Afiv7n7"
+          }
+        ],
+        "videoReview": {
+          "link": "",
+          "text": ""
+        }
+      }
+    ],
+    "not_recommended": [
+      {
+        "name": "Thinkbook 16 Gen 6",
+        "price": "₹42,000",
+        "processor": "AMD Ryzen 7 7530U",
+        "graphics": "Integrated",
+        "battery_health": "67%",
+        "highlights": "Small battery, no ADP",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link 1",
+            "url": "https://clnk.in/u2wA"
+          },
+          {
+            "platform": "Purchase Link 2",
+            "url": "https://mdeal.in/c_vh4HgGAYsSf6vLK"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "Thinkbook 16 Gen 7",
+        "price": "₹54,000",
+        "processor": "AMD Ryzen 7 7335U",
+        "graphics": "Integrated",
+        "battery_health": "67%",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link",
+            "url": "https://mdeal.in/c_h7bWp9FGxpRfKwG"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "Thinkbook 16 Gen 7",
+        "price": "₹58,000",
+        "processor": "AMD Ryzen 7 7535HS",
+        "graphics": "Integrated",
+        "battery_health": "67%",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link",
+            "url": "https://mdeal.in/c_h7bWp9FGxpRfKwG"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "Thinkbook 16 Gen 7",
+        "price": "₹66,000",
+        "processor": "AMD Ryzen 7 7735HS",
+        "graphics": "Integrated",
+        "battery_health": "67%",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link",
+            "url": "https://mdeal.in/c_h7bWp9FGxpRfKwG"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "Asus Vivobook S14 OLED (Black)",
+        "price": "₹125,000",
+        "processor": "AMD Ryzen 7 370HX",
+        "graphics": "AMD Radeon 890M",
+        "battery_health": "126%",
+        "highlights": "Under Review",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link 1",
+            "url": "https://clnk.in/u4SI"
+          },
+          {
+            "platform": "Purchase Link 2",
+            "url": "https://amzn.to/3XiH3MY"
+          },
+          {
+            "platform": "Purchase Link 3",
+            "url": "https://fkrtt.it/c_npDmXFSJJVqQ08n"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "Asus Vivobook S14 OLED (White)",
+        "price": "₹125,000",
+        "processor": "AMD Ryzen 7 370HX",
+        "graphics": "AMD Radeon 890M",
+        "battery_health": "126%",
+        "highlights": "Under Review",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link 1",
+            "url": "https://clnk.in/u4SZ"
+          },
+          {
+            "platform": "Purchase Link 2",
+            "url": "https://amzn.to/3MnWP2G"
+          },
+          {
+            "platform": "Purchase Link 3",
+            "url": "https://fkrtt.it/c_ZQP8d40D416J0tF"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "Unknown Model",
+        "price": "₹175,000",
+        "processor": "AMD Ryzen 9 8945HS",
+        "graphics": "NVIDIA GeForce RTX 4060",
+        "battery_health": "",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link",
+            "url": "https://amzn.to/3zcd6Vd"
+          }
+        ],
+        "video_review": ""
+      }
+    ],
+    "hold": [
+      {
+        "name": "IdeaPad Pro 5 Intel (185H)",
+        "price": "₹104,000",
+        "processor": "Intel Core iX (185H)",
+        "graphics": "Integrated",
+        "battery_health": "126%",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link 1",
+            "url": "https://clnk.in/u1Kb"
+          },
+          {
+            "platform": "Purchase Link 2",
+            "url": "https://mdeal.in/c_Cj7DSJLW7Pyc3WT"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "IdeaPad Pro 5 Intel (155H)",
+        "price": "₹95,000",
+        "processor": "Intel Core iX (155H)",
+        "graphics": "Integrated",
+        "battery_health": "126%",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link 1",
+            "url": "https://clnk.in/u1Kb"
+          },
+          {
+            "platform": "Purchase Link 2",
+            "url": "https://mdeal.in/c_Cj7DSJLW7Pyc3WT"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "IdeaPad Pro 5 Intel (125H)",
+        "price": "₹82,000",
+        "processor": "Intel Core iX (125H)",
+        "graphics": "Integrated",
+        "battery_health": "100%",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link 1",
+            "url": "https://clnk.in/u1Kb"
+          },
+          {
+            "platform": "Purchase Link 2",
+            "url": "https://mdeal.in/c_Cj7DSJLW7Pyc3WT"
+          }
+        ],
+        "video_review": ""
+      },
+      {
+        "name": "Unknown Model",
+        "price": "₹180,000",
+        "processor": "Intel Core iX (155H)",
+        "graphics": "NVIDIA GeForce RTX 4060",
+        "highlights": "",
+        "purchase_links": [
+          {
+            "platform": "Purchase Link",
+            "url": "https://amzn.to/3KOsLwi"
+          }
+        ],
+        "video_review": ""
+      }
+    ]
+  }
+}
